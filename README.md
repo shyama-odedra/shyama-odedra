@@ -5,7 +5,7 @@
 ## I ❤️...
 
 <!-- You can replace this GIF with any other from GIPHY if you like -->
-![](https://miro.medium.com/v2/resize:fit:1400/1*2dszPyaP8kLbb7DDqZkiAQ.gif)
+![](https://cdn.dribbble.com/users/24711/screenshots/3606084/media/51b211f7e0a7376c6e734a059e5183d6.gif)
 
 <!-- WakaTime badge (optional; remove if not used) -->
 <!--START_SECTION:waka-->
