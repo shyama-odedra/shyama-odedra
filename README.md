@@ -1,28 +1,61 @@
-# 💫 About Me:
-### 👩‍🎓 About Me<br><br>- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science <br>  at Parul University, Vadodara (2024–2028)<br>- 💡 Currently exploring Machine Learning, Python, and Data Analysis<br>- 🚀 Open to internships and collaborations in AI/ML and software development<br>- 🌐 Strong interest in ethical tech, clean UI, and impactful innovation<br>- 📍 Based in Vadodara, originally from Porbandar, Gujarat<br><br><br>
+### Hi there, I'm [Shyama Odedra](https://github.com/shyama-odedra) 👋
 
+![](https://komarev.com/ghpvc/?username=shyama-odedra)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shyama-odedra-0a6834349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamaodedra9@gmail.com) 
+## I ❤️...
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shyama odedra&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shyama odedra&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shyama odedra&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- You can replace this GIF with any other from GIPHY if you like -->
+![](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shyama odedra&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<!-- WakaTime badge (optional; remove if not used) -->
+<!--START_SECTION:waka-->
+<!-- [![wakatime](https://wakatime.com/badge/user/yourID.svg)](https://wakatime.com/@yourID) -->
+<!--END_SECTION:waka-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+🔭 I’m a passionate undergraduate in **Artificial Intelligence & Data Science**  
+at **Parul University**, currently in my 2nd semester.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shyama odedra&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+🌱 Currently exploring:
+- Python, C++
+- Git, GitHub & Open Source
+- Machine Learning Fundamentals
+- Clean UI + Data-driven Development
+
+💬 I aim to build AI-based solutions that improve real lives  
+and make technology accessible, ethical, and efficient.
+
+👯 Open to collaborating on:
+- AI/ML beginner-friendly projects
+- Data Science & Visualization
+- Technical content writing
+- Student tech communities & hackathons
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shyama odedra&icon=7&color=10)](https://visitcount.itsvg.in)
 
+### 🔗 Connect with Me:
 
+<a href="https://www.linkedin.com/in/shyama-odedra-0a6834349">
+  <img align="left" alt="Shyama's LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" />
+</a>
 
+<a href="mailto:shyamaodedra9@gmail.com">
+  <img align="left" alt="Shyama's Email" width="22px" src="https://cdn.icon-icons.com/icons2/652/PNG/512/gmail_icon-icons.com_59877.png" />
+</a>
+
+<br/>
+<br/>
+
+[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/your_leetcode_id/) <!-- Optional -->
+
+---
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shyama-odedra&theme=midnight-purple&hide_border=true&border_radius=5" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyama-odedra&layout=compact&theme=midnight-purple&hide_border=true" />
+  </a>
+</div>
+
+---
