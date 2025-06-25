@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=shyama-odedra)
 
 ## I ❤️...
+![AI Brain Glow](https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif)
 
 <!-- You can replace this GIF with any other from GIPHY if you like -->
 ![](https://cdn.dribbble.com/users/24711/screenshots/3606084/media/51b211f7e0a7376c6e734a059e5183d6.gif)
