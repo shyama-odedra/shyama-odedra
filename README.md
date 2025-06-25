@@ -5,7 +5,7 @@
 ## I ❤️...
 
 <!-- You can replace this GIF with any other from GIPHY if you like -->
-![](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+![](https://miro.medium.com/v2/resize:fit:1400/1*2dszPyaP8kLbb7DDqZkiAQ.gif)
 
 <!-- WakaTime badge (optional; remove if not used) -->
 <!--START_SECTION:waka-->
@@ -45,7 +45,7 @@ and make technology accessible, ethical, and efficient.
 <br/>
 <br/>
 
-[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/your_leetcode_id/) <!-- Optional -->
+[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat&labelColor=black&logo=leetcode&logoColor=orange)](https://leetcode.com/u/shyama_odedra/) <!-- Optional -->
 
 ---
 
