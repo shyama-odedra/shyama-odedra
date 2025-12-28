@@ -17,7 +17,7 @@
 <!--END_SECTION:waka-->
 
 🔭 I’m a passionate undergraduate in **Artificial Intelligence & Data Science**  
-at **Parul University**.
+at **Parul University**, **graduating in 2028**.
 
 🌱 Currently exploring:
 - Python, C++, Java
