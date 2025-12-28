@@ -21,7 +21,7 @@ at **Parul University**, currently in my 3rd
 semester.
 
 🌱 Currently exploring:
-- Python, C++
+- Python, C++, Java
 - Git, GitHub & Open Source
 - Machine Learning Fundamentals
 - Clean UI + Data-driven Development
