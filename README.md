@@ -55,10 +55,10 @@ and make technology accessible, ethical, and efficient.
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shyama-odedra&theme=midnight-purple&hide_border=true&border_radius=5" />
+    <img src="https://streak-stats.demolab.com?user=shyama-odedra&theme=midnight-purple&hide_border=true&border_radius=5&timezone=Asia/Kolkata" alt="GitHub Streak Stats" />
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyama-odedra&layout=compact&theme=midnight-purple&hide_border=true" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=shyama-odedra&layout=compact&theme=midnight-purple&hide_border=true" alt="Most Used Languages" />
   </a>
 </div>
 
